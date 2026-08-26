@@ -1,4 +1,4 @@
-# Minimalist Yuzu 🍋
+# Minimalist Yuzu
 
 A minimal Chrome theme in a fresh, citrus palette, by Miguel Euraque.
 
